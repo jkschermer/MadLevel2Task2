@@ -7,7 +7,7 @@ layout setup
 
 Extension to gridview, but in this each grid is of varying size. Staggered grid view shows asymmetric items in view. In a normal grid, each one is of the same size. This one shows items symmetrically in view.
 
-**What is the purpose of logcat?  **
+**What is the purpose of logcat?**
 
 Command line tool that dumps a log of system messages, including stack-traces when the device throws an error and messages that you have written from your app with the log class.
 
